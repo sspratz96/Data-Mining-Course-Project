@@ -68,7 +68,9 @@ Our goal was to extract and analyze job listings to answer:
 ## 👨‍👩‍👧‍👦 Authors
 
 Group 5 — Data Mining & Knowledge Discovery 2024  
-(Include names or initials if appropriate)
+Sebastian Sprätz
+Pakin Veerachanchai
+Muhammad Ali
 
 ---
 
